@@ -1,9 +1,13 @@
 _repo: The-Haunted-PagodasThe-Quest-of-the-Golden-Pearl_50897
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Nisbet, Hume
     gutenberg_agent_id: '46135'
     url: http://www.gutenberg.org/2009/agents/46135
+covers:
+- cover_type: archival
+  image_path: 50897-h/images/cover.jpg
 creator:
   author:
     agent_name: Hutchinson, J. R. (John Robert)
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '2195'
     url: http://www.gutenberg.org/2009/agents/2195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50897#The-Haunted-PagodasThe-Quest-of-the-Golden-Pearl
 gutenberg_issued: '2016-01-11'
 gutenberg_type: Text
 identifiers:

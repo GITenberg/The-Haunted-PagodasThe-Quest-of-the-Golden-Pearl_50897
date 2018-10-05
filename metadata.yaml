@@ -27,5 +27,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Haunted Pagodas—The Quest of the Golden Pearl
 url: http://www.gutenberg.org/ebooks/50897
